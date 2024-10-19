@@ -2,7 +2,7 @@
     "global": {
         "general": {
             "download_path": "/content/drive/MyDrive/Hi-Res 5",
-            "download_quality": "lossless",
+            "download_quality": "hifi",
             "search_limit": 10
         },
         "artist_downloading": {
