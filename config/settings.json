@@ -1,4 +1,4 @@
-{
+ {
     "global": {
         "general": {
             "download_path": "/content/drive/MyDrive/Hi-Res 5",
@@ -22,7 +22,7 @@
             "spatial_codecs": true
         },
         "module_defaults": {
-            "lyrics": "musixmatch",
+            "lyrics": "default",
             "covers": "default",
             "credits": "default"
         },
